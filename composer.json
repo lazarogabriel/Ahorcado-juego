@@ -1,0 +1,10 @@
+{
+    "name": "lazaro/ahorcado-juego",
+    "authors": [
+        {
+            "name": "Lazaro Gabriel",
+            "email": "lazarogabriel2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
