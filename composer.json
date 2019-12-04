@@ -1,8 +1,11 @@
 {
     "name": "lazaro/ahorcado-juego",
+    "description": "",
+    "type": "project",
+    "license": "propietary",
     "authors": [
         {
-            "name": "Lazaro Gabriel",
+            "name": "lazarogabriel",
             "email": "lazarogabriel2000@gmail.com"
         }
     ],
