@@ -49,7 +49,7 @@ class UI{
             <div>
                 <h2 style="color:green;"> GANASTE !</h2>
                 <p class="py-3" style="letter-spacing:5px;">La palabra era  ${palabra}</p>
-                <a href="ahorcado.html" class="btn btn-success">Jugar Otra vez</a>
+                <a href="index.php" class="btn btn-success">Jugar Otra vez</a>
             </div> 
             `;
         }else{
@@ -57,7 +57,7 @@ class UI{
             <div>
                 <h2 style="color:red;"> PERDISTE BOLUDO</h2>
                 <p class="py-3" style="letter-spacing:5px;">La palabra era  ${palabra}</p>
-                <a href="ahorcado.html" class="btn btn-danger">Jugar Otra vez</a>
+                <a href="index.php" class="btn btn-danger">Jugar Otra vez</a>
             </div>
             `;
         }
